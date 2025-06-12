@@ -1,1 +1,0 @@
-export const CENTER_SQUARE = 5;
